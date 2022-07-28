@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jPanel4" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="txtBuscarPorId" min="-2" pref="72" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="btnBuscarPorId" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace pref="12" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jButton2" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="62" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" pref="97" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtBuscarPorId" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="btnBuscarPorId" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="35" max="32767" attributes="0"/>
+                      <Component id="jPanel4" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jButton1" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                          <Component id="jButton2" alignment="3" min="-2" pref="33" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel4">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="lblA22" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jScrollPane3" min="-2" pref="300" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                          <Component id="lblA21" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="txtNombreProyecto2" min="-2" pref="190" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="lblA25" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="145" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="lblA23" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jScrollPane4" min="-2" pref="324" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="lblA28" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblA29" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblA30" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="lblA27" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="txtFormaPaganClientes" min="-2" pref="257" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="lblA24" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="txtAutorizacionVideoRedesSociales" min="-2" pref="79" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="txtAutorizacionDireccionComercial" alignment="0" min="-2" pref="72" max="-2" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="lblA26" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="txtPrincipalesClientes" min="-2" pref="295" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="txtNivelDeudaMensual" alignment="0" min="-2" pref="240" max="-2" attributes="0"/>
+                      <Component id="txtPrincipalFuenteFinanciamiento" alignment="0" min="-2" pref="379" max="-2" attributes="0"/>
+                      <Component id="txtFormaPago" alignment="0" min="-2" pref="502" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="txtNombreProyecto2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblA21" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblA22" alignment="0" min="-2" max="-2" attributes="0"/>
+                      <Component id="jScrollPane3" alignment="0" min="-2" pref="160" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblA23" min="-2" max="-2" attributes="0"/>
+                      <Component id="jScrollPane4" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblA24" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtAutorizacionVideoRedesSociales" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="42" max="32767" attributes="0"/>
+                  <Component id="lblA25" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtAutorizacionDireccionComercial" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblA26" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtPrincipalesClientes" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblA27" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtFormaPaganClientes" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                  <Component id="lblA30" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtNivelDeudaMensual" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                  <Component id="lblA28" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtPrincipalFuenteFinanciamiento" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                  <Component id="lblA29" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtFormaPago" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JTextField" name="txtNombreProyecto2">
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA21">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nombre del proyecto"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="txaDescripcionProyecto4">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="rows" type="int" value="5"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+              </AuxValues>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="lblA22">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Descripcion del proyecto"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA23">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Seleccion del rubro"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA24">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Autorizacion del video en redes sociales"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA25">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Autorizacion uso de direccion comercial de empresa localizacion, ubicacion en plataforma en SERCOTEC "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA26">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Principales clientes"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA27">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="De que forma pagan a los clientes"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA28">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cual es la principal fuente de financiamiento con que pone en marcha su negocio?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA29">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cual es la forma de pago que utiliza para pagar materia prima o insumos del negocio?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA30">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nivel de deuda mensual que tiene el negocio en relacion a las ventas netas mensuales"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane4">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="txaRubro">
+              <Properties>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="rows" type="int" value="5"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JTextField" name="txtAutorizacionVideoRedesSociales">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtAutorizacionDireccionComercial">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtPrincipalesClientes">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtFormaPaganClientes">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtNivelDeudaMensual">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtPrincipalFuenteFinanciamiento">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtFormaPago">
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblA33" alignment="0" max="32767" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="txtSocioNegocio" alignment="0" max="32767" attributes="0"/>
+                              <Component id="lblA32" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblA31" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="lblA39" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblA37" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblA36" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblA35" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblA34" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblA38" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtPersonasACargo" alignment="0" min="-2" pref="247" max="-2" attributes="0"/>
+                              <Component id="txtRecursosCrecerNegocio" alignment="0" min="-2" pref="374" max="-2" attributes="0"/>
+                              <Component id="txtListaServiciosAsesoria" alignment="0" min="-2" pref="606" max="-2" attributes="0"/>
+                              <Component id="txtNotableSerEmprendedor" alignment="0" min="-2" pref="343" max="-2" attributes="0"/>
+                              <Component id="txtPrincipalVentajaProducto" alignment="0" min="-2" pref="649" max="-2" attributes="0"/>
+                              <Component id="txtPromedioHorasEfectiva" alignment="0" min="-2" pref="229" max="-2" attributes="0"/>
+                              <Component id="txtEmpresasNegociosDueno" alignment="0" min="-2" pref="305" max="-2" attributes="0"/>
+                              <Component id="txtNivelConocimiento" alignment="0" min="-2" pref="424" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                  <Component id="lblA31" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtSocioNegocio" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="lblA32" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtPersonasACargo" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="lblA33" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtRecursosCrecerNegocio" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                  <Component id="lblA34" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtListaServiciosAsesoria" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="lblA35" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtNotableSerEmprendedor" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  <Component id="lblA36" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtPrincipalVentajaProducto" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                  <Component id="lblA39" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtPromedioHorasEfectiva" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                  <Component id="lblA37" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtEmpresasNegociosDueno" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="46" max="32767" attributes="0"/>
+                  <Component id="lblA38" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="txtNivelConocimiento" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="125" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="lblA31">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cuenta con algun socio en su negocio (socio formal o informal)."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA32">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cuantas personas a cargo ha tenido en trabajos anteriores?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA33">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Si tienes que conseguir recursos para hacer crecer su negocio cual seria la mejor alternativa para conseguir."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA34">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="De la siguiente lista de servicios o asesoria externa, escoja una"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA35">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Que es lo mas notable de ser emprendedor?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA36">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cual es la principal ventaja que usted identifica en productos y/o servicios por sobre su competencia?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA37">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="De cuantas empresas o negocios es o ha sido due&#xf1;o?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA38">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Se&#xf1;ale nivel de conocimiento y manejo que posee en marketing comercial y generacion de redes comerciales"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblA39">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Promedio de horas efectivas de capacitacion en los ultimos 3 a&#xf1;os"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtSocioNegocio">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtPersonasACargo">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtRecursosCrecerNegocio">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtListaServiciosAsesoria">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtNotableSerEmprendedor">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtPrincipalVentajaProducto">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtPromedioHorasEfectiva">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtEmpresasNegociosDueno">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtNivelConocimiento">
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Buscar por ID:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txtBuscarPorId">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnBuscarPorId">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Buscar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnBuscarPorIdActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="SIGUIENTE"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ATRAS"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
